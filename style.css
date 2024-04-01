@@ -1,26 +1,32 @@
 * {
   margin: 0;
   padding: 0;
-  font-size: 24px;
+  font-size: 35px;
+}
+
+body {
+  padding: 30px;
+  padding-top: 10px;
+}
+
+.container {
+  width: 90%;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .header {
-    background: orange;
+  background: orange;
 }
 
 .main {
-    background: cornflowerblue;
-    width: 400px;
+  background: cornflowerblue;
 }
 
 .sidebar {
-    background: red;
-    width: 400px;
+  background: red;
 }
 
 .footer {
-    background: greenyellow;
+  background: greenyellow;
 }
-
-
-
